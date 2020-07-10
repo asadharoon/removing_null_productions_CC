@@ -4,6 +4,7 @@ Created on Fri Jul 10 20:02:27 2020
 
 @author: AsadHaroon
 """
+# Considered # as epsilon so please write epsilon as # in file.
 
 def printGrammar():
     file=open("D:\\CFG.txt")
